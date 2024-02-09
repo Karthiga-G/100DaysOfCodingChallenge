@@ -1,5 +1,5 @@
 ## Challenge
-Please fill in the lines of code to implement the logic present in the flowchart. [img] */
+Please fill in the lines of code to implement the logic present in the flowchart.
 
 ## Solution
 
