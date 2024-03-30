@@ -33,5 +33,5 @@ Output:
 # Solution
 
 t=int(input())
-F=(t × 9/5) + 32 
+F=(t * 9/5) + 32 
 print(round(F,2))
