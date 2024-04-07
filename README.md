@@ -1,5 +1,5 @@
 # 50DaysOfCodingChallenge
-30 Days Of Coding Challenge
+50 Days Of Coding Challenge
 
 ## Motivation
 I embarked on this 50-day coding challenge to enhance my coding skills and tackle problems in various programming languages, including Java, Python, C and SQL.
